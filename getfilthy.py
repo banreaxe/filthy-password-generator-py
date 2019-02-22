@@ -1,5 +1,5 @@
 import time
-from passwordgenerator import pwgenerator
+from filthypasswordgenerator import pwgenerator
 
 
 while True:

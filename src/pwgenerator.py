@@ -17,7 +17,7 @@ def load_dictionary():
     """
 
     # Get module
-    module = importlib.import_module('passwordgenerator.data.english')
+    module = importlib.import_module('filthypasswordgenerator.data.english')
 
     # Save env dict in the global scope
     return getattr(module, 'dictionary')

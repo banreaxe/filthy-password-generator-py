@@ -7,20 +7,20 @@ except(IOError, ImportError):
     long_description = open('README.md').read()
 
 setup(
-    name='passwordgenerator',
+    name='filthypasswordgenerator',
     version='1.4',
-    description='Passwords easy for humans, hard for computers',
+    description='Passwords that make humans hard',
     long_description=long_description,
-    author='Gabriel Bordeaux',
-    author_email='pypi@gab.lc',
-    url='https://github.com/gabfl/password-generator-py/',
+    author='Mark',
+    author_email='banreaxe@gmail.com',
+    url='https://github.com/banreaxe/filthy-password-generator-py',
     license='MIT',
-    packages=['passwordgenerator', 'passwordgenerator.data'],
-    package_dir={'passwordgenerator': 'src'},
+    packages=['filthypasswordgenerator', 'filthypasswordgenerator.data'],
+    package_dir={'filthypasswordgenerator': 'src'},
     install_requires=['argparse'],  # external dependencies
     entry_points={
         'console_scripts': [
-            'passwordgenerator = passwordgenerator.pwgenerator:main',
+            'filthypasswordgenerator = filthypasswordgenerator.pwgenerator:main',
         ],
     },
     classifiers=[  # see https://pypi.python.org/pypi?%3Aaction=list_classifiers
