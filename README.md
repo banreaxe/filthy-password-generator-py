@@ -1,8 +1,5 @@
 # filthy-password-generator-py
 
-#[![Pypi](https://img.shields.io/pypi/v/passwordgenerator.svg)](https://pypi.org/project/passwordgenerator)
-#[![Build Status](https://travis-ci.org/gabfl/password-generator-py.svg?branch=master)](https://travis-ci.org/gabfl/password-generator-py)
-#[![codecov](https://codecov.io/gh/gabfl/password-generator-py/branch/master/graph/badge.svg)](https://codecov.io/gh/gabfl/password-generator-py)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/gabfl/password-generator-py/master/LICENSE)
 
 # ### Original Readme from forked project left intact below ###
