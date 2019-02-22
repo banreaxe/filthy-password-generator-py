@@ -5,7 +5,28 @@
 ## Description
 
 One day I was using a password generator it a few of the ones coming out contained some filthy output, not intentionally of course, just a side effect of using a pre made dictionary file. After the creator used a list of obscene words to clean it up, I decided it was so funny that I would use the obscene words exclusively and see what kind of filth comes out, and lo and behold we have the filthy password generator.
- 
+
+## Setup
+Just run:
+'''
+python setup.py install
+'''
+
+Then you can run
+'''
+python getfilthy.py
+'''
+for a continuous stream of filth.
+
+
+## Use within Python script
+
+```python
+>>> from filthypasswordgenerator import pwgenerator
+
+>>> pwgenerator.generate()
+'Ass+Snatch:Pissing;553'
+```
 
 ## Examples
 
@@ -21,14 +42,7 @@ Faggot;722-Hooker=Bulldyke
 ```
 
 
-## Use within another Python script
 
-```python
->>> from passwordgenerator import pwgenerator
-
->>> pwgenerator.generate()
-'Ass+Snatch:Pissing;553'
-```
 
 ## Advanced options
 
