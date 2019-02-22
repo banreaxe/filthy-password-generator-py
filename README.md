@@ -30,7 +30,7 @@ for a continuous stream of filth.
 
 ## Examples
 
-Here are a few filthy passwords that can be generated:
+Here are a few filthy passwords that have been generated:
 
 ```
 Orgy-Anus;70+Tranny
