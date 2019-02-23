@@ -9,7 +9,7 @@ except(IOError, ImportError):
 setup(
     name='filthypasswordgenerator',
     version='1.4',
-    description='Passwords that make humans hard',
+    description='The filthiest passwords imaginable',
     long_description=long_description,
     author='Mark',
     author_email='banreaxe@gmail.com',
